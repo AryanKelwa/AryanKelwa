@@ -1,5 +1,9 @@
-# 💫 About Me:
-Data Scientist | Generative AI | 
+# Hi there 👋, I'm Aryan Kelwa
+
+## 🚀 About Me
+- 💼 Working at Xalt Analytics Pvt Ltd.
+- 🤖 AI Engineer | Machine Learning | Data Analytics
+- 🌱 Currently learning: Advanced AI & System Design
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aryan-kelwa-63288624b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryan.kelwa.contact@gmail.com) 
